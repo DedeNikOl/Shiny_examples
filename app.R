@@ -1,4 +1,5 @@
 library(shiny)
+library('gRbase')
 library('quantmod')
 source("helpers.R")
 
