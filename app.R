@@ -9,7 +9,7 @@ ui <- fluidPage(
   
   sidebarLayout(
     sidebarPanel(
-      helpText("Select a stock to examine. Information will be collected from Yahoo finance."),
+      helpText("Select a stock to examine. Information will be collected from Yahoo finance. change"),
       
       textInput("symb", "Symbol", "SPY"),
       
